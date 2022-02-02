@@ -1,0 +1,63 @@
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Loguin.resources
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Properties.Resources.resources
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.csproj.GenerateResource.Cache
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.exe
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.pdb
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.exe
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.pdb
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form0.resources
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form1.resources
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form2.resources
+D:\Renan\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form3.resources
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.exe
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.pdb
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.exe
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.pdb
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form0.resources
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form1.resources
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form2.resources
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form3.resources
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Properties.Resources.resources
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Dados\Mecatrônica\2015\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Login.resources
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.exe
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.pdb
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.exe
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.pdb
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form0.resources
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form1.resources
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form2.resources
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form3.resources
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Login.resources
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Properties.Resources.resources
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Dados\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.exe
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.pdb
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.exe
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.pdb
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form0.resources
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form1.resources
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form2.resources
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form3.resources
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Login.resources
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Properties.Resources.resources
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Dados\Mecatrônica\2015\LIP_2\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.exe
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida de Motor Trifasico com Reverso.pdb
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.exe
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\bin\Debug\Partida de Motor Trifasico com Reverso.pdb
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form0.resources
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form1.resources
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form2.resources
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Form3.resources
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Login.resources
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\Partida_de_Motor_Trifasico_com_Reverso.Properties.Resources.resources
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Dados\Acionamento de motor\Partida de Motor Trifasico com Reverso\Partida de Motor Trifasico com Reverso\obj\x86\Debug\GenerateResource.write.1.tlog
